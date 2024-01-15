@@ -1,4 +1,4 @@
-# aerithnetzer
+# Aerith Netzer
 
 [![Aerith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerithnetzer)](https://github.com/anuraghazra/github-readme-stats)
 
