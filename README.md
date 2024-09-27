@@ -6,3 +6,5 @@ Hi! I am Aerith Netzer, the Digital Publishing Librarian at Northwestern Univers
  =( o   o )=
 -------------
 ```
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aerithnetzer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
