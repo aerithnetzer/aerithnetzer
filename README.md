@@ -1,10 +1,9 @@
 # Aerith Netzer
 
-Hi! I am Aerith Netzer, the Digital Publishing Librarian at Northwestern University. I am interested in scholarly media/technology, open-source scholarship, and digital publishing. 
-```
-    /\_/\  
- =( o   o )=
--------------
-```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aerithnetzer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+🔭 I’m currently working on cultural analytics and digital publishing
+🌱 I’m currently learning hugo and javascript
+💬 Ask me about the cheapest way to publish a journal
+📫 How to reach me: aerith.netzer@northwestern.edu
+😄 Pronouns: she/her
+
