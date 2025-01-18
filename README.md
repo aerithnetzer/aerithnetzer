@@ -1,7 +1,7 @@
 # Aerith Netzer
 
 
-🔭 I’m currently working on cultural analytics and digital publishing
+🔭 I’m currently working on NLP and digital publishing
 
 🌱 I’m currently learning hugo and javascript
 
