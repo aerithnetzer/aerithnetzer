@@ -1,9 +1,7 @@
 # Aerith Netzer
 
 
-🔭 I’m currently working on NLP and digital publishing
-
-🌱 I’m currently learning hugo and javascript
+🔭 I work in bringing supercomputing and high-performance data science workflows to the humanities
 
 💬 Ask me about the cheapest way to publish a journal
 
